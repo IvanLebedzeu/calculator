@@ -20,7 +20,7 @@ _This exercise uses Javascript function to perform calculatory acts._
 
 ## Known Bugs
 
-No known bugs at this time.
+The branch buttons was used to experiment with using one form for the numbers and multiple button options for operations. It works, but requires an initial double click.
 
 ## Support and contact details
 
