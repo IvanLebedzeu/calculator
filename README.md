@@ -15,7 +15,7 @@ _This exercise uses Javascript function to perform calculatory acts._
 * Navigate to index.html file.
 * Right click and open in the browser of your choice.
 
-* Alternatively, open the webpage at jhvozdovich@github.io/calculator
+* Alternatively, open the webpage at https://jhvozdovich.github.io/calculator-2/
 
 
 ## Known Bugs
