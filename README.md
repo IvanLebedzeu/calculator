@@ -1,13 +1,14 @@
 # _Calculator_
 
-#### _Epicodus Project integrating JavaScript with HTML and CSS to create a Calculator, Updated to Include Front End Elements March 25, 2020_
+#### _Epicodus Project integrating JavaScript with HTML and CSS to create a Calculator, Updated to Include Front End Elements, Updated with Refactored Front End Elements March 26, 2020_
 
 #### By _**Jessica Hvozdovich and DJ Zevenbergen**_
 #### V2 Contributions by _**Mikah Mathews**_
+#### V3 Contributions by _**Ivan Lebedzeu**_
 
 ## Description
 
-_This exercise uses Javascript function to perform calculatory acts._
+_This exercise uses Javascript function to perform calculations with additional jQuery button options using forms._
 
 ## Setup/Installation Requirements
 
@@ -20,11 +21,11 @@ _This exercise uses Javascript function to perform calculatory acts._
 
 ## Known Bugs
 
-The branch buttons was used to experiment with using one form for the numbers and multiple button options for operations. It works, but requires an initial double click.
+No known buggs at the time of this version.
 
 ## Support and contact details
 
-If you have any suggestions or questions please email us at jhvozdovich@gmail.com or djzevenbergen@gmail.com or mikah@outofband.org
+If you have any suggestions or questions please email us at jhvozdovich@gmail.com or djzevenbergen@gmail.com or mikah@outofband.org or ivan.lebedzeu1@gmail.com
 
 ## Technologies Used
 
@@ -39,4 +40,4 @@ jQuery
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2020 **_Jessica Hvozdovich and DJ Zevenbergen and Mikah Mathews_**
+Copyright (c) 2020 **_Jessica Hvozdovich and DJ Zevenbergen and Mikah Mathews and Ivan Lebedzeu_**
